@@ -1,0 +1,7 @@
+org\example\Main.class
+org\example\mdoel\dto\ResultDTO.class
+org\example\mdoel\enums\ScoringTable.class
+org\example\util\CalculationUtils.class
+org\example\util\DisplayUtils.class
+org\example\mdoel\dto\DecathlonPerformanceDTO.class
+org\example\service\ReadDecathlonResultsService.class
